@@ -851,15 +851,9 @@ files:
     visible: true
     learner_created: true
 feedback_link: https://hyperskill.org/learn/step/37841#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #52
-
-    DELETE /event/4 should respond with status code 200, responded: 404
-
-    Response body:
-
-    {&quot;message&quot;:&quot;The event doesn&#39;t exist!&quot;}
-  time: "Sun, 24 Mar 2024 10:32:54 UTC"
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 26 Mar 2024 15:32:46 UTC"
 record: -1
